@@ -56,7 +56,7 @@ Publish the website in the given URL.
     <p style="color:white;">Authentic traditional biriyani with rich taste and aroma.</p>
 </section>
 
-<footer>© Designed by SANJAI.S.J</footer>
+<footer>© Designed by S.VISHVABALA</footer>
 </body>
 </html>
 ~~~
@@ -145,16 +145,16 @@ Publish the website in the given URL.
         </div>
         <div class="card">
             <img src="MANAGER.png">
-            <p>SANJAI.S.J – Manager</p>
+            <p>S.J.SANJAI – Manager</p>
         </div>
         <div class="card">
             <img src="OWNER.png">
-            <p>Vishvabala.S– Owner</p>
+            <p>S.VISHVABALA– Owner</p>
         </div>
     </div>
 </section>
 
-<footer>© Designed by S.vishvabala</footer>
+<footer>© Designed by S.VISHVBALA</footer>
 </body>
 </html>
 ~~~
@@ -181,14 +181,14 @@ Publish the website in the given URL.
 <section>
     <div class="contact-container">
         <h2>Contact Us</h2>
-        <p><b>Address:</b> Gudiyattam, Vellore</p>
+        <p><b>Address:</b> KARAIKUDI, SIVAGANGAI</p>
         <p><b>Phone:</b> +91 99445 35800</p>
-        <p><b>Email:</b> zeenathbiriyani@gmail.com</p>
+        <p><b>Email:</b> excellentbiriyani@gmail.com</p>
         <p><b>Timing:</b>  7 AM – 10 PM</p>
     </div>
 </section>
 
-<footer>© Designed by SANJAI.S.J</footer>
+<footer>© Designed by VISHVABALA.S</footer>
 </body>
 </html>
 ~~~
@@ -300,7 +300,12 @@ footer {
 
 
 ## OUTPUT:
+<img width="1919" height="923" alt="image" src="https://github.com/user-attachments/assets/1be84213-cb4a-481a-9752-5d68982f9e9a" />
+<img width="1919" height="1030" alt="Screenshot 2025-12-25 111711" src="https://github.com/user-attachments/assets/9d55e951-7542-422d-9877-89c96be0ed9e" />
 
+<img width="1919" height="926" alt="Screenshot 2025-12-25 112112" src="https://github.com/user-attachments/assets/2b1ff7a4-2cf5-45ea-882d-b96ac42c5397" />
+
+<img width="1919" height="1032" alt="Screenshot 2025-12-25 112359" src="https://github.com/user-attachments/assets/02413650-4146-4a8d-8fc4-7f7e19e665c1" />
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
