@@ -35,7 +35,7 @@ Publish the website in the given URL.
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Zeenath Biriyani</title>
+    <title>Excellent Biriyani</title>
     <link rel="stylesheet" href="index.css">
 </head>
 <body>
