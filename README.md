@@ -66,7 +66,7 @@ Publish the website in the given URL.
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Zeenath Biriyani - Menu</title>
+    <title>Excellent Biriyani - Menu</title>
     <link rel="stylesheet" href="index.css">
 </head>
 <body>
